@@ -1,11 +1,11 @@
 const quizData = [
   {
-    question: "Which language runs in a web browser?",
-    a: "Java",
-    b: "C",
-    c: "Python",
-    d: "JavaScript",
-    correct: "d",
+    question: "한글을 창제하신분은?",
+    a: "이순신",
+    b: "장영실",
+    c: "세종대왕",
+    d: "퇴계이황",
+    correct: "c",
   },
   {
     question: "What does CSS stand for?",
